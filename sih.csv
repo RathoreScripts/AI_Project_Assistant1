@@ -1,0 +1,13 @@
+year,problem_statement,domain,difficulty,tech_stack
+2023,AI based traffic management,AI,Medium,"Python, OpenCV, Machine Learning, IoT"
+2023,Smart water monitoring,IoT,Medium,"Arduino, Sensors, Cloud, Mobile App"
+2024,Fake news detection,NLP,Beginner,"Python, NLP, Machine Learning, Web Scraping"
+2024,Healthcare appointment system,Web,Beginner,"React, Node.js, MongoDB, REST API"
+2024,Blockchain-based land registry,Blockchain,Advanced,"Blockchain, Smart Contracts, Web3, Solidity"
+2023,AI-powered crop disease detection,AI,Medium,"Python, Computer Vision, TensorFlow, Mobile App"
+2024,Smart waste management system,IoT,Medium,"Arduino, Sensors, Cloud, Analytics"
+2023,Digital payment fraud detection,Cybersecurity,Advanced,"Python, Machine Learning, Anomaly Detection, Security"
+2024,AR-based learning platform,AR/VR,Advanced,"Unity, ARCore, 3D Modeling, Mobile Development"
+2023,Smart parking system,IoT,Beginner,"Arduino, Sensors, Mobile App, Cloud"
+2024,NLP-based legal document analysis,NLP,Advanced,"Python, NLP, Transformers, Legal Tech"
+2023,Blockchain for supply chain transparency,Blockchain,Medium,"Blockchain, Smart Contracts, Web Development"
